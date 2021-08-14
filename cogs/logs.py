@@ -13,7 +13,7 @@ LEAVE = 0x1982c4  # blue
 ROLE = 0xEE6F3D  # orange
 NICKNAME = 0x6a4c93  # purple
 VOICE = 0x99e5da  # aqua ish
-GUILD_ID = 866970151873806366
+GUILD_ID = 864643008452624398
 
 
 def _crop(text, chars=2000, border="--Snippet--"):
