@@ -183,7 +183,7 @@ class Help(commands.Cog, name="Meta"):
         em.timestamp = dt.datetime.utcnow()
 
         em.description = f"This bot was created by Keiran#1712 for" \
-                         f" The Abertay Games Dev 2021 Freshers discord.\n\n" \
+                         f" the Abertay Games Dev 2021 Freshers discord.\n\n" \
                          f" If you'd like a bot created please DM Keiran directly!"
         await ctx.send(embed=em)
 
